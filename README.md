@@ -1,4 +1,6 @@
 # 📐 Projeto de Testes Unitários em C# com xUnit e FluentAssertions
+---
+<img width="1922" height="366" alt="image" src="https://github.com/user-attachments/assets/08719f32-08a8-4440-b97b-fae3d7fd8d78" />
 
 ---
 
